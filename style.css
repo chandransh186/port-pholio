@@ -1,0 +1,25 @@
+#chandu-font {
+    font-family: "Josefin Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+}
+
+.starting {
+    /* background-color: antiquewhite; */
+    height: 85vh;
+    display: flex;
+    justify-content: flex-end;
+    margin-top: 5rem;
+}
+
+.main-bg {
+
+    margin: 0 3rem;
+    width: calc(50% - 3rem);
+}
+
+.blur {
+    backdrop-filter: blur(10px);
+    /* background-color: white; */
+}
